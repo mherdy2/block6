@@ -1,0 +1,31 @@
+div{
+    border: 1px;
+    border-style: solid;
+    background-color: blanchedalmond;
+    margin: auto;
+    padding: 5px 10px 5px 25px;
+    width: 120px;
+    height: 100px;
+    
+    
+}
+h1{
+    text-align: center;
+    background-color: aquamarine;
+    padding: 10px;
+    border: 20px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+
+}
+h4{
+    background-color: coral;
+    padding: 10px;
+    border: 30px;
+    border-style: dotted;
+    border-width: 2px;
+    border-color: blueviolet;
+    width: 150px;
+
+}
