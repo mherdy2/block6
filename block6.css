@@ -1,3 +1,10 @@
+body{
+    background-image: url(https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/0a/1a/03.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    opacity: .5px;
+}
 div{
     border: 1px;
     border-style: solid;
