@@ -3,18 +3,21 @@ body{
     background-repeat: no-repeat;
     background-size: 100%;
     background-attachment: fixed;
-    opacity: .5px;
+   }
+main{
+      backdrop-filter: blur(3px);
 }
-div{
+   div{
     border: 1px;
     border-style: solid;
     background-color: blanchedalmond;
-    margin: auto;
-    padding: 5px 10px 5px 25px;
-    width: 120px;
-    height: 100px;
-    
-    
+    margin: 4em;
+    padding: 5px 40px 5px 25px;
+    width: 150px;
+}
+section{
+    display: flex;
+    flex-flow: row nowrap;
 }
 h1{
     text-align: center;
@@ -25,6 +28,16 @@ h1{
     border-color: black;
     border-width: 2px;
 
+}
+h2{
+    background-color: yellow;
+    width: 230px;
+    padding: 10px;
+    border: 25px;
+    border-style: solid;
+    border-width: 2px;
+    padding: 10px;
+    color: #15619c;
 }
 h4{
     background-color: coral;
