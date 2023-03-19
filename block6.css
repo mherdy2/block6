@@ -16,7 +16,7 @@ div{
     border-style: solid;
     border-bottom-left-radius: 15px;
     border-top-right-radius: 15px;
-    background-color: #bf4b8d5d;
+    background-color: #bf4b8d9d;
     margin: 3em;
     padding: 1px 40px 10px 5px;
     width: 150px;
@@ -84,4 +84,8 @@ footer{
     margin-right: auto;
     background-color: #bf4b8d16;
     }
+.freezing{
+    filter:blur(2px)
+}
+
     
