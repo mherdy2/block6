@@ -14,11 +14,11 @@ div{
     margin-left: 5px;
     border: 1px;
     border-style: solid;
-    border-bottom-left-radius: 20px;
-    border-top-right-radius: 20px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
     background-color: rgba(255, 235, 205, 0.416);
     margin: 3em;
-    padding: 1px 40px 1px 5px;
+    padding: 1px 40px 10px 5px;
     width: 150px;
     height: 150px;    
 }
@@ -28,10 +28,10 @@ section{
 }
 
 img{
-    width: 175px;
-    height: 145px;
-    margin-top: 2px;
-    margin-left: 5px;
+    width: 300px;
+    height: 250px;
+    margin-top: -30px;
+    margin-left: -30px;
 }
 
 h1{
@@ -50,37 +50,38 @@ h1{
 
 h2{
     border-radius: 15px;
-    background-color: rgba(255, 255, 0, 0.453);
+    background-color: rgba(255, 255, 0, 0.562);
     width: 200px;
-    padding: 10px;
-    border-top: 5px;
-    border-bottom: 5px;
+    padding: 10px; 
     border-style: solid;
     border-width: 2px;
-    color: #020e18d0;
-    margin-left: 20px;
-    }
+    color: #0e5289;
+}
 
 h4{
-    background-color:#9642f54b ;
+    background-color:#9642f572 ;
     width: 135px;
-    height: 25px;
     padding: 2px;
     border-top: 5x;
-    border-bottom: 5px;
+    margin-left: 15px;
+    text-align: center;
+ 
     }
 
 h5{
+    font-family: Verdana;
     font-style: italic;
+
 }
 footer{
     font-style: italic;
-     color:aliceblue;
+    color:rgb(240, 38, 7);
     text-align: right;
     border-style:dotted;
     border-width: 2px;
     width: 25%;
     text-align: center;
     margin-left: auto;
+    background-color: rgba(0, 255, 34, 0.846);
     }
     
