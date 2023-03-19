@@ -16,7 +16,7 @@ div{
     border-style: solid;
     border-bottom-left-radius: 15px;
     border-top-right-radius: 15px;
-    background-color: #bf4b8d9d;
+    background-color: #ddc8d4d0;
     margin: 3em;
     padding: 1px 40px 10px 5px;
     width: 150px;
@@ -40,7 +40,7 @@ h1{
     border-width: 2px;
     text-align: center;
     border-radius: 20px;
-    background-color: #bf4b8dd9;
+    background-color: #f3e0ebd9;
     padding: 10px;
     border-style: solid;
     border-color: black;
@@ -50,7 +50,7 @@ h1{
 
 h2{
     border-radius: 15px;
-    background-color: #bf4b8d9e;
+    background-color: #e0d0d9b9;
     width: 200px;
     padding: 10px; 
     border-style: solid;
@@ -59,7 +59,7 @@ h2{
 }
 
 h4{
-    background-color:#9642f572 ;
+    background-color:#9642f5fa ;
     width: 135px;
     padding: 2px;
     border-top: 5x;
@@ -85,7 +85,7 @@ footer{
     background-color: #bf4b8d16;
     }
 .freezing{
-    filter:blur(2px)
+    filter:blur(1px)
 }
 
     
