@@ -20,8 +20,7 @@ div{
     margin: 3em;
     padding: 1px 40px 1px 5px;
     width: 150px;
-    height: 150px;
-    
+    height: 150px;    
 }
 section{
     display: flex;
@@ -84,21 +83,4 @@ footer{
     text-align: center;
     margin-left: auto;
     }
-        /*  
-
-h4{
-    text-align: center;
-    background-color: coral;
-    padding: 3px 15px;
-    border: 20px;
-    border-style: dotted;
-    border-width: 2px;
-    border-color: blueviolet;
-    width: 150px;
-    margin-left: 1px;
-}
-    margin-top: 2px;
-    padding: 2px;
-}
-
-*/
+    
